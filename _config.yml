@@ -157,7 +157,7 @@ yat:
 defaults:
    home:
      heading: "Develop Log"
-     subheading: "To be a AI"
+     subheading: "To be a AI Engineer"
      banner: "Your image url"
 
 # Banner default settings
