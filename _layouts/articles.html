@@ -7,6 +7,14 @@ sidebar: category-list
   {% if page.banner == nil %}
     {% assign banner = page.title %}
   {% endif %}
+  
+  <article class="post-article">
+    <div class="toc">
+      <a href="#">&lt;맨 위로&gt;</a>
+      {% include toc.html html=content %}
+    </div>
+    {{ content }}
+  </article>
 
   {{ content }}
 
