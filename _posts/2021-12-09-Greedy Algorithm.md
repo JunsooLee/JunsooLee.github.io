@@ -52,5 +52,5 @@ def solution(money):
         answer += money // i
         money %= i
     
-		return answer
+	return answer
 ```
