@@ -1,6 +1,6 @@
 ---
 layout: default
-title: [Algorithm] Greedy
+title: Greedy Algorithm
 subtitle: LeeJunSu
 categories : Algorithm
 tags : [Algorithm, Coding Test]
@@ -14,7 +14,6 @@ date : 2021-12-09 20:15
 ⇒ 단순히 가장 좋아 보이는 것을 반복적으로 선택하여 **최적의 해를 구할 수 있는지**를 검토해야한다.
 
 ---
-
 ### Greedy 알고리즘 조건
 
 **탐욕스러운 선택 조건**
